@@ -1,4 +1,4 @@
-# DASICS-NutShell运行环境
+# DASICS-NutShell运行集成环境
 
 ## 使用步骤
 
