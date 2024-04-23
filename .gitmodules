@@ -34,3 +34,6 @@
 	path = u-boot
 	url = git@github.com:DASICS-ICT/uboot.git
 	branch = master
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = git@github.com:OpenXiangShan/riscv-gnu-toolchain.git
