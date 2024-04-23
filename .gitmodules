@@ -1,21 +1,36 @@
 [submodule "device-tree-xlnx"]
 	path = device-tree-xlnx
-	url = ./device-tree-xlnx/device-tree-xlnx.git
+	url = https://github.com/Xilinx/device-tree-xlnx.git
+	branch = xilinx-v2019.2
 [submodule "NEMU"]
 	path = NEMU
-	url = ./NEMU/NEMU.git
+	url = git@github.com:DASICS-ICT/NEMU.git
+	branch = dasics-nutshell-v2
 [submodule "NutShell-DASICS"]
 	path = NutShell-DASICS
-	url = ./NutShell-DASICS/NutShell-DASICS.git
+	url = git@github.com:DASICS-ICT/NutShell-DASICS.git
+	branch = dasics-nutshell-v2-dev
 [submodule "opensbi"]
 	path = opensbi
-	url = ./opensbi/opensbi.git
+	url = git@github.com:DASICS-ICT/OpenSBI.git
+	branch = xs-dasics-opensbi
 [submodule "riscv-linux"]
 	path = riscv-linux
-	url = ./riscv-linux/riscv-linux.git
+	url = git@github.com:DASICS-ICT/riscv-linux.git
+	branch = dasics-nutshell-v2
 [submodule "riscv-pk"]
 	path = riscv-pk
-	url = ./riscv-pk/riscv-pk.git
+	url = git@github.com:DASICS-ICT/riscv-pk.git
+	branch = dasics-nutshell-v2
 [submodule "riscv-rootfs"]
 	path = riscv-rootfs
-	url = ./riscv-rootfs/riscv-rootfs.git
+	url = git@github.com:DASICS-ICT/riscv-rootfs.git
+	branch = xs-dasics-linux
+[submodule "qemu-8.1.0"]
+	path = qemu-8.1.0
+	url = git@github.com:DASICS-ICT/QEMU-DASICS.git
+	branch = xs-dasics-qemu-8.1.0
+[submodule "u-boot"]
+	path = u-boot
+	url = git@github.com:DASICS-ICT/uboot.git
+	branch = master
