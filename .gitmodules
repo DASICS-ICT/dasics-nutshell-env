@@ -1,0 +1,21 @@
+[submodule "device-tree-xlnx"]
+	path = device-tree-xlnx
+	url = ./device-tree-xlnx/device-tree-xlnx.git
+[submodule "NEMU"]
+	path = NEMU
+	url = ./NEMU/NEMU.git
+[submodule "NutShell-DASICS"]
+	path = NutShell-DASICS
+	url = ./NutShell-DASICS/NutShell-DASICS.git
+[submodule "opensbi"]
+	path = opensbi
+	url = ./opensbi/opensbi.git
+[submodule "riscv-linux"]
+	path = riscv-linux
+	url = ./riscv-linux/riscv-linux.git
+[submodule "riscv-pk"]
+	path = riscv-pk
+	url = ./riscv-pk/riscv-pk.git
+[submodule "riscv-rootfs"]
+	path = riscv-rootfs
+	url = ./riscv-rootfs/riscv-rootfs.git
