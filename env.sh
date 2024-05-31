@@ -6,7 +6,7 @@ export RISCV_ROOTFS_HOME=$DASICS_NUTSHELL_HOME/riscv-rootfs
 export RISCV_QEMU=$DASICS_NUTSHELL_HOME/qemu-8.1.0/build
 
 #toolchain
-export DASICS_TOOL_CHAIN=$(PATH_TO_YOUR_TOOLCHAIN)
+export DASICS_TOOL_CHAIN=$(abspath .)/riscv64-toolchain
 export RISCV=$DASICS_TOOL_CHAIN
 #export PATH=$DASICS_TOOL_CHAIN/riscv64-unknown-elf/bin:$PATH
 export PATH=$DASICS_TOOL_CHAIN/bin:$RISCV_QEMU:$PATH
