@@ -9,4 +9,5 @@
 4.  参照组织首页的[dasics-nutshell-v2教程](https://github.com/DASICS-ICT/.github/blob/main/profile/dasics-nutshell-v2.md)的第三节后的内容进行具体操作。
 
 ## 注意事项
-由于仓库持续更新，请根据具体目的检查各仓库分支是否符合要求。
+
+本仓库维护可用的最新DASICS-NutShell集成环境；由于仓库持续更新，在具有特定目的时，请检查各仓库分支是否符合要求。
