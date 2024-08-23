@@ -1,7 +1,7 @@
 [submodule "device-tree-xlnx"]
 	path = device-tree-xlnx
 	url = https://github.com/Xilinx/device-tree-xlnx.git
-	branch = xilinx-v2019.2
+	branch = xilinx-v2020.2
 [submodule "NEMU"]
 	path = NEMU
 	url = git@github.com:DASICS-ICT/NEMU.git
