@@ -6,7 +6,7 @@
 2.  `./lib-install.sh `
 2.  `./build-toolchain.sh`
 3.  `source env.sh`（最好修改具体路径后移到~/.bashrc内，否则每次启动终端都要这样做）
-4.  参照组织首页的[dasics-nutshell-v2教程](https://github.com/DASICS-ICT/.github/blob/main/profile/dasics-nutshell-v2.md)的第三节后的内容进行具体操作。
+4.  参照组织首页的[dasics-nutshell-v2教程](https://github.com/DASICS-ICT/.github/blob/main/profile/dasics-nutshell-v2.md)的内容进行具体操作。
 
 ## 注意事项
 
